@@ -1,4 +1,4 @@
-```markdown
+
 # Blockchain Implementation
 
 This is a simple implementation of a blockchain using C programming language. It demonstrates the basic concepts of a blockchain, including adding blocks, verifying the chain, altering blocks, and detecting attempts to tamper with the chain.
@@ -61,6 +61,6 @@ The code consists of the following main functions:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
+
 
 This README.md file provides an overview of the blockchain implementation, including its features, prerequisites, instructions for building and running the program, a high-level description of the code structure, and information about licensing.
